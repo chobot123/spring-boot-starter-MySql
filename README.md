@@ -1,2 +1,4 @@
 # spring-boot-starter-mysql
-spring boot starter template using a mysql connection
+My spring boot web service starter template for a MySQL connection.
+
+
